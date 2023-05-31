@@ -169,7 +169,7 @@ sns.relplot(data=tips, x = "total_bill", y = "tip")
 
 
     
-![png](output_3_1.png)
+<img src="/assets/images/output_3_1.png">
     
 
 
@@ -192,7 +192,7 @@ sns.relplot(data=tips, x = "total_bill", y = "tip")
 
 
     
-![png](output_5_1.png)
+<img src="/assets/images/output_5_1.png">
     
 
 
@@ -210,7 +210,7 @@ sns.relplot(data=tips, x = "total_bill", y = "tip", hue="sex")
 
 
     
-![png](output_6_1.png)
+<img src="/assets/images/output_6_1.png">
     
 
 
@@ -228,7 +228,7 @@ sns.relplot(data=tips, x = "total_bill", y = "tip", hue="sex", size="size")
 
 
     
-![png](output_7_1.png)
+<img src="/assets/images/output_7_1.png">
     
 
 
@@ -246,7 +246,7 @@ sns.relplot(data=tips, x = "total_bill", y = "tip", hue="sex", size="size",style
 
 
     
-![png](output_8_1.png)
+<img src="/assets/images/output_8_1.png">
     
 
 
@@ -264,7 +264,7 @@ sns.relplot(data=tips, x = "total_bill", y = "tip", hue="sex", size="size",style
 
 
     
-![png](output_9_1.png)
+<img src="/assets/images/output_9_1.png">
     
 
 
@@ -282,6 +282,6 @@ sns.relplot(data=tips, x = "total_bill", y = "tip", hue="sex", size="size",style
 
 
     
-![png](output_10_1.png)
+<img src="/assets/images/output_10_1.png">
     
 
